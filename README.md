@@ -1,5 +1,7 @@
 # AI_Gemini_Appsheet
-Build no-code business apps with AppSheet and Google Cloud AI
+Build no-code business apps with AppSheet / AppsScript and Google Cloud AI
+
+<img src="../main/image/gemini_logo.jpg" alt="image"  height="100px">
 
 The call of Gemini is implemented in the CrazyCoach application to :
 
