@@ -1,5 +1,6 @@
 # AI_Gemini_Appsheet
-Build no-code business apps with AppSheet / AppsScript and Google Cloud AI
+Build no-code business apps with AppSheet / AppsScript and Google Cloud AI.
+some topics and snippets that can help you in the development of your prompt 
 
 <img src="../main/image/gemini_logo.jpg" alt="image"  height="100px">
 
@@ -74,9 +75,25 @@ echo '{
       payload: JSON.stringify(requestBody)
     };
 ```
+### AppSheets (NoCode LowCode DEV Pro)
+### Display images, documents  -  URL of the image in AppSheets
+https://support.google.com/appsheet/answer/10107317?hl=en
 
+Formula in AppSheet table 
+ <img src="../main/image/appsheet_formula.JPG" alt="image"  height="400px">
 
+```
+CONCATENATE(
+  "https://www.appsheet.com/template/gettablefileurl",
+  "?appName=", ENCODEURL(CONTEXT("AppName")),
+  "&tableName=", ENCODEURL(CONTEXT("Table")),
+  "&fileName=", ENCODEURL([image-or-file-column])
+) 
+```
+### Google Cloud Next24 
+Here's a summary of the key points from the Great Google talk ( by Christian Schalk & Mariz Melo Interaction Designer ), along with the script and topics covered.  Since the talk was short, I've included these resources to clarify any points you may have missed.
 
+[<img src="../main/image/next24.JPG" width="50%">](https://www.youtube.com/embed/evUy58sBCeM?si=o7OL5Vmb6DfUZP-Q "Next24")
 
 
 
