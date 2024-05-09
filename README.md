@@ -6,10 +6,11 @@ The call of Gemini is implemented in the CrazyCoach application to :
 - Identify healthy characteristics of some dish  
 - Menu recommendations based on a dish 
 - According to a gym machine, what can be its replacement at home
-- 
-    ![image app prompt](../main/image/AI_Gemini1.JPG){:style="width: 300px; height: 200px;"}
-    ![image app prompt](../main/image/AI_Gemini3.JPG){:style="width: 300px; height: 200px;"}
-    ![image app prompt](../main/image/AI_Gemini4.JPG){:style="width: 300px; height: 200px;"}
+  
+    <img src="../main/image/AI_Gemini1.JPG" alt="image"  height="400px">
+    <img src="../main/image/AI_Gemini3.JPG" alt="image"  height="400px">
+    <img src="../main/image/AI_Gemini4.JPG" alt="image"  height="400px">
+    <img src="../main/image/AI_Gemini5.JPG" alt="image"  height="400px">
 
 
   
