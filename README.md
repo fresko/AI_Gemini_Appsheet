@@ -48,6 +48,7 @@ echo '{
     }
   ]
 ```
+ You can find the complete script here  : [AppsScript_callGemini.gs](https://github.com/fresko/AI_Gemini_Appsheet/blob/main/AppsScript_callGemini.gs)
 
 ### AappsScript
 ```
